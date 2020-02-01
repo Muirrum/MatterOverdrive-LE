@@ -1,6 +1,6 @@
 /*
  * This file is part of MatterOverdrive: Legacy Edition
- * Copyright (C) 2020, Horizon Studio <contact@hrznstudio.com>, All rights reserved.
+ * Copyright (C) 2020, Simeon Radivoev/Horizon Studios <contact@hrznstudio.com>, All rights reserved.
  *
  * MatterOverdrive: Legacy Edition is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

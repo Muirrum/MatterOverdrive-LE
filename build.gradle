@@ -40,9 +40,9 @@ static def getCurrentYear() {
 license {
     ext {
         name = "MatterOverdrive: Legacy Edition"
-        organization = "Horizon Studio"
+        organization = "Simeon Radivoev/Horizon Studios"
         email = "contact@hrznstudio.com"
-        url = "https://hrznstudio.com"
+        url = "https://mo.simeonradivoev.com"
         year = getCurrentYear()
     }
 
